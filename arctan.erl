@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(arctan).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [atan/1]).
