@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(map).
 -author("Millenium Robotics").
 -version("1.0").
 -export([start/0]).
