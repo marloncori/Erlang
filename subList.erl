@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(subList).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [sublist/2]).
