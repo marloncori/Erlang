@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(logarithm).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [log/1]).
