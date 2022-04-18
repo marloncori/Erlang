@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(sine).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [sin/1]).
