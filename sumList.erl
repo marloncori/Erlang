@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(sumList).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [sum/1]).
