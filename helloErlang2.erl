@@ -1,7 +1,7 @@
--module(helloerlang).
+-module(helloErlang2).
 -author("Millenium Robotics").
 -version("1.0").
--import(io, [fwrite/1])
+-import(io, [fwrite/2])
 -export([start/0]).
 
 start() ->
