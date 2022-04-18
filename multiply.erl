@@ -1,12 +1,11 @@
--module(helloerlang).
+-module(multiply).
 -author("Millenium Robotics").
 -version("1.0").
--import(io, [fwrite/1]).
 -export([mult/3, start/0]).
 
 mult(X, Y, Z) when X /= 0 -> 
     Product = X * Y * Z,
-    fwrite("~w~n", [Product]).
+    io:fwrite("~w~n", [Product]).
 
 % recursive
 % mult([]) -> 0;
