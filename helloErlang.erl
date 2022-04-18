@@ -1,7 +1,7 @@
 
 % hello Erlang program
--module(helloerlang)
--export([start/0]])
+-module(helloErlang).
+-export([start/0]]).
 
 start() ->
-   io:fwrite(" Hello, Erlang!\n").
+   io:fwrite(" Hello, Erlang!\n", []).
