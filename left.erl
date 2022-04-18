@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(left).
 -author("Millenium Robotics").
 -version("1.0").
 -import(io, [left/2]).
