@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(addNums).
 -author("Millenium Robotics").
 -version("1.0").
 -export([start/0]).
