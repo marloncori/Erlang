@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(reverse).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [reverse/1]).
