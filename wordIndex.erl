@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(wordIndex).
 -author("Millenium Robotics").
 -version("1.0").
 -import(string, [str/2]).
