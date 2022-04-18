@@ -10,5 +10,5 @@
 start() ->
     List1 = [1, 2, 3, 4],
     Predicate = fun(E) -> E rem 2 == 0 end,
-    Status = all(Predicate, List)
+    Status = all(Predicate, List),
     io:fwrite("~w~n", [Status]).
