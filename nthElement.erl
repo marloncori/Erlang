@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(nthElement).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [nth/2]).
