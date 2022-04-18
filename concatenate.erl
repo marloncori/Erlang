@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(concatenate).
 -author("Millenium Robotics").
 -version("1.0").
 -import(string, [concat/2]).
