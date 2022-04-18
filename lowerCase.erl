@@ -1,7 +1,7 @@
--module(helloerlang).
+-module(lowerCase).
 -author("Millenium Robotics").
 -version("1.0").
--import(string, to_lower/1]).
+-import(string, [to_lower/1]).
 -export([start/0]).
 
 
