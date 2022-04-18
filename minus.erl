@@ -1,7 +1,7 @@
--module(helloerlang).
+-module(minus).
 -author("Millenium Robotics").
 -version("1.0").
--import(io, [fwrite/1]).
+-import(io, [fwrite/2]).
 -export([minus/2, start/0]).
 
 minus(X, Y) -> 
