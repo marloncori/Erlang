@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(cosine).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [cos/1]).
