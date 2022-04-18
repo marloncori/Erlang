@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(upperCase).
 -author("Millenium Robotics").
 -version("1.0").
 -import(string, [to_upper/1]).
