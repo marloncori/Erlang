@@ -20,15 +20,15 @@ $> c(<file name without .erl extension>).
   
   And press enter. If it says ok, you can now start the newly compiled
   .beam binary:
- $> <file name>:start().
+ $> file-name:start().
   
  The second option is outside the Erlang shell in the Bash terminal
   by typing the following:
-  $> erlc <file name>.erl
+  $> erlc file-name.erl
   
   Then run it with the following long name (you can use the Bash script
   you can find here to shorten it down instead:
   
-  $> erl -noshell -s <file name> start -s init stop
+  $> erl -noshell -s file-name start -s init stop
   
   Good luck! 
