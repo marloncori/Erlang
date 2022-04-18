@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(customDuplicate).
 -author("Millenium Robotics").
 -version("1.0").
 -export([duplicate/2, start/0]).
