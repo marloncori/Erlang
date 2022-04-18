@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(forLoop).
 -author("Millenium Robotics").
 -version("1.0").
 -export([for/2, start/0]).
