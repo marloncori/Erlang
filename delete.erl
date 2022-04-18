@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(delete).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [delete/2]).
