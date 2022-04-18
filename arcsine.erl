@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(arcsine).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [asin/1]).
