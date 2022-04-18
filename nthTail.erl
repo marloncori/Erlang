@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(nthTail).
 -author("Millenium Robotics").
 -version("1.0").
 -import(lists, [nthtail/2]).
