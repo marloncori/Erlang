@@ -1,4 +1,4 @@
--module(helloerlang).
+-module(exponential).
 -author("Millenium Robotics").
 -version("1.0").
 -import(math, [exp/1]).
