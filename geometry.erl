@@ -13,7 +13,7 @@ square_area(sqr, Side) ->
 calculate(rect, V1, V2) ->
         rectangle_area(rect, V1, V2);
 calculate(sqr, V1, V2) ->
-        square_area(sqr, V1, V2).
+        square_area(sqr, V1).
 
 start() ->
     Sd = 23.45,
