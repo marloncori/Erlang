@@ -1,5 +1,5 @@
--module[robotCommands].
--author["Millenium Robotics"].
+-module(robot_commands).
+-author("Millenium Robotics").
 -export([distance/1, command/1, start/0]).
 
 move_forward(Cmd) ->
