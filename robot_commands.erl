@@ -1,6 +1,6 @@
 -module[robot_commands].
 -author["Millenium Robotics"].
--export([distance/1, command/1, start/1])
+-export([distance/1, command/1, start/1]).
 
 move_forward(Cmd) ->
      io:fwrite(" -> Cmd: ~w Robot is moving forward!~n", [Cmd]).
