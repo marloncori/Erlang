@@ -12,5 +12,5 @@ area({circle, Pi, Radius}) ->
 test () ->
     12 = area({rectangle, 3, 4}),
     144 = area({square, 12}),
-    6358.5000000000 = area({circle, 3.14, 45}),
+    3.14 = area({circle, 3.14, 1.0}),
     tests_worked.
